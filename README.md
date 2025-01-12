@@ -5,7 +5,7 @@
 
 - 🌱 I’m actively learning **ML, DL, Web development**
 
-- 👯 I’m looking to collaborate on **any interesting & unique AI research**
+- 👯 I’m looking to collaborate on **any interesting & unique research**
 
 - 📫 How to reach me **email me**
 
