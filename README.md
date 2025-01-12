@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting & unique research**
 
-- 📫 How to reach me **email me**
+- 📫 How to reach me - **email me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
