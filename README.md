@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sristi</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a CSE graduate with a strong passion in Artificial Intelligence, especially generative AI and its real-world applications.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a CSE graduate with a passion in Artificial Intelligence, especially generative AI and its real-world applications.</h3>
 
 - 🔭 I’m currently working on **several research projects**
 
