@@ -6,12 +6,13 @@
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="400"/>
 </div>
 
----
+<img src="https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Line.gif"/>
+
 **🧠 AI Researcher | 🌱 Fresher | 💻 Machine Learning Engineer**
 
 Computer Science graduate.Passionate about creating intelligent systems that solve real-world problems. Specializing in generative AI, computer vision, and ethical machine learning implementations.
 
-<img align="right" alt="Coding" width="400" src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=👋+Hii+I+am+Sristi'/>
+<img align="right" alt="Coding" width="250" src='https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Animation%20-%201738076489791.gif'/>
 
 ### 🚀 About Me:
 
@@ -26,11 +27,10 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
 - **AI/ML:** Python, PyTorch, TensorFlow, OpenCV, Pandas, Scikit-learn
 - **Research:** Generative Models, Computer Vision, NLP
 - **Web Dev:** HTML/CSS, JavaScript, MySQL
-- **Tools:** Git, Docker, Jupyter, Colab, VS Code, Google Cloud
+- **Tools:** Git, Jupyter, Colab, VS Code, Google Cloud
 - **Current Focus:** Advanced Neural Architectures & AI for Social Good
 
-
-<img src="https://github.com/smsristi/smsristi/blob/main/assets/Line.gif"/>
+---
 
 ## 🌐 Connect With Me
 
@@ -47,17 +47,16 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
 </p>
 
 <img src="https://github.com/smsristi/smsristi/blob/main/assets/Line.gif"/>
-## 💻 Tech Stack :
+
+## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -65,28 +64,29 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
 ![Seaborn](https://img.shields.io/badge/Seaborn-008B8B?style=for-the-badge&logo=seaborn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<img src="https://github.com/smsristi/smsristi/blob/main/assets/Line.gif"/>
+![Line](https://raw.githubusercontent.com/smsristi/smsristi/main/assets/Line.gif)
 
-
+---
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Stats with hidden rank -->
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=smsristi&show_icons=true&theme=radical&hide_rank=true" />
-  
-  <!-- Streak stats with custom highlights -->
-  <img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=smsristi&theme=radical&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF&dates=FFFFFF" />
+  <!-- GitHub Stats -->
+  <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=smsristi&show_icons=true&theme=radical&hide_rank=true" />
+  <!-- Corrected Streak Stats -->
+  <img width="38%" src="https://streak-stats.demolab.com/?user=smsristi&theme=radical" />
+
+  <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smsristi&layout=compact&theme=radical&hide=html,css" />
+
+
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsristi&layout=compact&theme=radical&hide=html,css" />
-</p>
 
-<!-- Activity Graph with streak visualization -->
+
+<!-- Contribution Graph -->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=smsristi&theme=react-dark&hide_border=true&custom_title=My%20Coding%20Streaks)
+<img src="https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Line.gif"/>
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -95,10 +95,11 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
 </p>
 
 
-<img src="https://github.com/smsristi/smsristi/blob/main/assets/Line.gif"/>
+---
 
-<img src="https://github.com/smsristi/smsristi/blob/main/assets/Line.gif"/>
 
 
 ## 🔝 **Top Contributed Repo**
-![](https://github-contributor-stats.vercel.app/api?username=smsristi&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=smsristi&limit=5&theme=matrix&combine_all_yearly_contributions=true" />
+</p>
