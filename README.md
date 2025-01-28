@@ -7,15 +7,15 @@
   <br><br><!-- Empty line space -->
 </div>
 
-
-<img src="https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Line.gif"/>
+---
 
 
 **🧠 AI Researcher | 🌱 Fresher | 💻 Machine Learning Engineer**
 
 Computer Science graduate.Passionate about creating intelligent systems that solve real-world problems. Specializing in generative AI, computer vision, and ethical machine learning implementations.
 
----
+
+<img src="https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Line.gif"/>
 
 <img align="right" alt="Coding" width="250" src='https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Animation%20-%201738076489791.gif'/>
 
