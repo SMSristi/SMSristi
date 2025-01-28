@@ -4,15 +4,19 @@
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="400"/>
+    
 </div>
 
-<img src="https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Line.gif"/>
+---
 
 **🧠 AI Researcher | 🌱 Fresher | 💻 Machine Learning Engineer**
 
 Computer Science graduate.Passionate about creating intelligent systems that solve real-world problems. Specializing in generative AI, computer vision, and ethical machine learning implementations.
 
+<img src="https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Line.gif"/>
+
 <img align="right" alt="Coding" width="250" src='https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Animation%20-%201738076489791.gif'/>
+
 
 ### 🚀 About Me:
 
@@ -66,7 +70,8 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
 
 ![Line](https://raw.githubusercontent.com/smsristi/smsristi/main/assets/Line.gif)
 
----
+<img src="https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Line.gif"/>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
