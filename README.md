@@ -80,11 +80,11 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=smsristi&show_icons=true&theme=radical&hide_rank=true" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=smsristi&show_icons=true&theme=radical&hide_rank=true" />
   <!-- Corrected Streak Stats -->
-  <img width="38%" src="https://streak-stats.demolab.com/?user=smsristi&theme=radical" />
+  <img width="40%" src="https://streak-stats.demolab.com/?user=smsristi&theme=radical" />
 
-  <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smsristi&layout=compact&theme=radical&hide=html,css" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smsristi&layout=compact&theme=radical&hide=html,css" />
 
 
 </p>
