@@ -22,11 +22,11 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
 
 ### 🚀 About Me:
 
-- 🔭 I’m currently working on **several research projects**.
-- 🌱 I’m actively learning **Machine Learning, Deep Learning, Web Development**.
-- 👯 I’m looking to collaborate on **interesting and unique AI research**.
-- 📫 How to reach me: **Email me**.
-- ⚡ Fun fact: **Probably a memer... because coding doesn’t always make me laugh.**
+- 🔭 I’m currently working on **several research projects**
+- 🌱 I’m actively learning **Machine Learning, Deep Learning, Web Development**
+- 👯 I’m looking to collaborate on **interesting and unique AI research**
+- 📫 How to reach me: **Email me**
+- ⚡ Fun fact: **Probably a memer... because coding doesn’t always make me laugh😪**
 
 **Core Expertise:**
 
