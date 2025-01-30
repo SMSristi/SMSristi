@@ -20,7 +20,7 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
 <img align="right" alt="Coding" width="250" src='https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Animation%20-%201738076489791.gif'/>
 
 
-### 🚀 About Me:
+### 🚀 About Me
 
 - 🔭 I’m currently working on **several research projects**
 - 🌱 I’m actively learning **Machine Learning, Deep Learning, Web Development**
