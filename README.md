@@ -50,7 +50,7 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://scholar.google.com/...">
+  <a href="https://scholar.google.com/citations?user=7-HbnJMAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
 </p>
