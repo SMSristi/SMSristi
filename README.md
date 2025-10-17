@@ -10,7 +10,7 @@
 ---
 
 
-**🧠 AI Researcher | 🌱 Fresher | 💻 Machine Learning Engineer**
+**🧠 AI Researcher | 🤖 Machine Learning Engineer | 💡 Creative Problem-Solver**
 
 Computer Science graduate.Passionate about creating intelligent systems that solve real-world problems. Specializing in generative AI, computer vision, and ethical machine learning implementations.
 
@@ -23,7 +23,7 @@ Computer Science graduate.Passionate about creating intelligent systems that sol
 
 <img align="right" alt="Coding" width="250" src='https://github.com/SMSristi/SMSristi/blob/main/sristi_gif/Animation%20-%201738076489791.gif'/>
 
-- 🔭 I’m currently working on **several research projects**
+- 🔭 As a **Research Assistant** at CUET, I'm currently leading **several research projects**
 - 🌱 I’m actively learning **Machine Learning, Deep Learning, Web Development**
 - 👯 I’m looking to collaborate on **interesting and unique AI research**
 - 📫 How to reach me: **Email me**
